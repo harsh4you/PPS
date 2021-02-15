@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+ //using puts
+    puts("Name - Harsh Sharma");
+    puts("Branch - Electircal Engneering");
+    puts("Class Roll No. - 2016028");
+    puts("Home Town - Ludhiana");
+    puts("Passion - Writing poetry");
+   
+
+    printf("Name - Harsh Sharma\nBranch - Electircal Engneering\nClass Roll No. - 2016028\nHometown - Ludhiana l\nPassion - Writing poetry\n");
+
+     return 0;
+}
