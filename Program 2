@@ -6,9 +6,9 @@ int main()
     float b = 10.10;
     char c = c;
 
-   puts("%d",a);
-   puts("%f",b);
-   puts("%c",c);
+   printf("%d",a);
+   printf("%f",b);
+   printf("%c",c);
 
      return 0;
 }
